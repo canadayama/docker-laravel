@@ -1,4 +1,4 @@
-# Laravel Docker Environment
+# Docker Laravel Development Environment
 
 ## Setup Docker Environment
 
@@ -19,7 +19,7 @@ In root directory where docker-compose.yaml is:
 
 Optional:
 
-`--build` to build/rebuild once
+`--build` once to build/rebuild
 
 ### Shutdown Docker Compose
 
