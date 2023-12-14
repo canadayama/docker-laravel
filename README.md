@@ -5,6 +5,7 @@
 
 ## Docker
 
+### Start Docker Compose
 In root directory where docker-compose.yaml is:
 
 `$ docker compose up -d [--build]`
@@ -13,4 +14,10 @@ Optional:
 
 `--build` to build/rebuild once
 
-`$ docker exec -it {container-name} sh`
+### Shutdown Docker Compose
+
+`$ docker compose down`
+
+### Enter Docker container
+
+`$ docker exec -it {container-name} [sh|bash]`
