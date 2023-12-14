@@ -1,5 +1,8 @@
 # Docker Laravel Development Environment
 
+Note:
+After cloning delete `.git` directory and 'git init' new repository.
+
 ## Setup Docker Environment
 
 1. Copy .env_docker to .env
