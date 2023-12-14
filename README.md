@@ -1,7 +1,14 @@
 # Laravel Docker Environment
 
+## Setup Docker Environment
+
+1. Copy .env_docker to .env
+2. Set up Docker .env environment.
+
+## Create Laravel Application
+
 1. Create 'src' directory
-2. `cd src` and in directory 'composer create-project laravel/laravel .'
+2. `cd src` and in directory `composer create-project laravel/laravel .`
 
 ## Docker
 
