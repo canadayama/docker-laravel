@@ -2,3 +2,4 @@
 .env
 
 # Directories
+node_modules/
